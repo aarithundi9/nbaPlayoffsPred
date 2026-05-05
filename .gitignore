@@ -1,0 +1,18 @@
+# Credentials — do not commit
+.env
+key.txt
+*.pem
+*.key
+
+# Local data cache
+cache/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
